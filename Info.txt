@@ -1,0 +1,13 @@
+# Vehi-Tracker
+
+## Class.
+
+- Bike
+- Car
+- Bus
+- Truck
+
+## Technology Used.
+
+- YOLOV8
+- Google Colab
